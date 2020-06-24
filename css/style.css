@@ -1,0 +1,235 @@
+/* CSS Document */
+:root{
+	--background-color-blue-gradient: linear-gradient(180deg, rgba(17,56,119,1) 37%, rgba(133,152,184,1) 69%, rgba(231,234,239,1) 87%); 
+	--cirlce-color: #5373A8;
+	--bg-azul: #123877;
+	
+}
+
+.nombre-usuario{
+	padding-bottom: 10%!important;
+	font-size: 14px;
+	color: #fff;
+}
+
+.nombre-usuario a{
+	margin-top: 18px;
+	color: #fff;
+}
+
+.move img{
+	padding-top: 50px;
+}
+
+
+.img-fluid{
+	max-width: 100%
+}
+
+.background-color-blue{
+	background-color:linear-gradient(180deg, rgba(17,56,119,1) 37%, rgba(133,152,184,1) 69%, rgba(231,234,239,1) 87%); 
+}/*No se si se pude cambiar todo el color de fondo de la aplicacion*/
+
+.contendor-1 a{
+	font-size: 80px;
+	margin-left: 35px;
+	margin-bottom: 65px;
+	color: #fff;
+	background-color: var(--cirlce-color);
+	border-radius: 100%;
+}
+.contendor-2 a{
+	font-size: 80px;
+
+	margin-left: 35px;
+	margin-bottom: 65px;
+	color: #fff;
+	background-color: var(--cirlce-color);
+	border-radius: 100%;
+}
+.contendor-3 a{
+	font-size: 80px;
+
+	margin-left: 35px;
+	margin-bottom: 65px;
+	color: #fff;
+	background-color: var(--cirlce-color);
+	border-radius: 100%;
+}
+.contendor-4 a{
+	font-size: 80px;
+
+	margin-left: 35px;
+	margin-bottom: 65px;
+	color: #fff;
+	background-color:var(--cirlce-color);
+	border-radius: 100%;
+}
+.contendor-5 a{
+	font-size: 80px;
+
+	margin-left: 35px;
+	color: #fff;
+	background-color:var(--cirlce-color);
+	border-radius: 100%;
+}
+.contendor-6 a{
+	font-size: 80px;
+
+	margin-left:35px;
+	color: #fff;
+	background-color:var(--cirlce-color);
+	border-radius: 100%;
+}
+
+
+.clases-1{
+	background-color: #113877;
+}
+
+.list-clases .list{
+	color: #fff;
+	background-color: #113877!important;
+}
+.nombre-u{
+	color: #fff;
+}
+.nombre-u h2{
+	color: #fff;
+	font-size: 15px;
+	margin-top: -0.5px;
+	font-weight:400
+}
+
+.center{
+	text-align: center;
+}
+.button{
+	color: var(--bg-azul);
+}
+
+.info-g{
+	text-align: center;
+	color: #fff;
+	border-top: 1px solid #fff;
+}
+.info-g h2{
+	text-align: center;
+	color: #fff;
+}
+
+.clases a{
+	margin-left: 50px;
+	font-size: 20px;
+}
+
+.clases .nota{
+	padding-left: 50px;
+	font-size: 20px;
+	color: #fff;
+}
+
+.clases .clases-1{
+	margin-bottom: 50px;
+}
+.list-azul{
+	background-color: var(--bg-azul) !important;
+	font-size: 14px;
+	color: #fff;
+}
+
+.list-clases .item-title-row::before{
+	color: #fff!important;
+}
+
+.list-c .item-inner{
+	color: #fff;
+}
+
+.item-media{
+	color: #fff!important;
+}
+.list-c .item-inner::before{
+	color: #fff!important;
+}
+.list-clases{
+	margin-top: -5px!important;
+}
+
+.titulo .block-title{
+	color: #fff;
+	margin-top: -35px!important;
+	border-bottom: 1px solid #fff;
+	margin-bottom: 150px!important;
+}
+
+.list-1{
+	color: #fff;
+}
+.list-1 .item-inner::before{
+	color: #fff!important;
+}
+.list-1 .item-inner{
+	font-size: 18px!important;
+}
+
+.titulo .txt{
+	text-align: center;
+	color: rgba(248, 236, 236, 40%)!important;
+	margin-top: 60px!important;
+}
+.titulo-1 .block-title{
+	color: #fff;
+	margin-top: -35px!important;
+	border-bottom: 1px solid #fff;
+}
+.text{
+	color: #fff;
+	margin-bottom: 70px;
+}
+
+.text-1{
+	color: #fff;
+	text-align: center;
+	font-weight: 500;
+	font-size: 15px;
+	margin-top: -25px;
+}
+
+.foro-1{
+	margin-top: 100px;
+	color: #fff;
+}
+.formulario .item-inner{
+	color: #fff;
+}
+.texto-1{
+	color: #fff!important;
+}
+.input-clear-button{
+	color: #fff;
+}
+.item-input-wrap{
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
